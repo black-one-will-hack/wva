@@ -1,0 +1,8 @@
+README.md
+setup.py
+wva.egg-info/PKG-INFO
+wva.egg-info/SOURCES.txt
+wva.egg-info/dependency_links.txt
+wva.egg-info/entry_points.txt
+wva.egg-info/requires.txt
+wva.egg-info/top_level.txt
